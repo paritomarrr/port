@@ -115,7 +115,7 @@ const Footer = ({ hideBGCOLOR }) => {
                   <i className="fab fa-linkedin"></i>
                 </a>
                 <a href="https://dev.to/a_mature_dev">
-                <i class="fab fa-google"></i>
+                <i className="fab fa-google"></i>
                 </a>
               </div>
               <div className="copy-right">
