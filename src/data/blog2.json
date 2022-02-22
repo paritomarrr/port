@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "title": "Flash Loans | Make profit in almost 14 secs - if you are smart enough. People have already started doing it.",
+    "content": "Another one of my quick notes => I assume that you (the reader) understands Blockchain [Ethereum specifically], smart contracts and DeFi (aka decentralised finance). If not, this will be tough to follow and hence, advisable to dig about these first and come back over here.",
+    "image": "/img/blog/1.png",
+    "tags": ["Blockchain", "Ethereum", "Smart Contract"],
+    "date": {
+      "day": "23",
+      "month": "February",
+      "year": "2020"
+    },
+    "link": "https://dev.to/a_mature_dev/flash-loans-make-profit-in-almost-14-secs-if-you-are-smart-enough-people-have-already-started-doing-it-3hge"
+  },
+  {
+    "id": 2,
+    "title": "ERC20 vs ERC777 | Quick Understanding and why ERC777 is not being used",
+    "content": "This is one of my short and quick articles. There is a assumption over here that you (the reader) is aware of Blockchain, Ethereum, Solidity and Tokens. If you do not understand these terms this article will not be of much help to you. You should dig-up these terms and possibly come back over here.",
+    "image": "/img/blog/2.png",
+    "tags": ["Blockchain", "Ethereum", "Smart Contract"],
+    "date": {
+      "day": "15",
+      "month": "February",
+      "year": "2020"
+    },
+    "link": "https://dev.to/a_mature_dev/erc20-vs-erc777-quick-understanding-and-why-erc777-is-not-being-used-4lle"
+  },
+  {
+    "id": 3,
+    "title": "Defining Roles in Smart Contract",
+    "content": "This is a quick and short article that I wanted to get out of my drafts. There is a big presumption over here that you are aware of what blockchain and smart contract is. If you are not aware of these concepts, I will have to request you to hunt these concepts down or put in a comment below and I will guide you through it.",
+    "image": "/img/blog/3.png",
+    "tags": ["Solidity", "Blockchian", "Smartcontract"],
+    "date": {
+      "day": "04",
+      "month": "February",
+      "year": "2020"
+    },
+    "link": "https://dev.to/a_mature_dev/defining-roles-in-smart-contract-19l4"
+  },
+  {
+    "id": 4,
+    "title": "What is the Libra Coin and Network. Quick Bullet pointers",
+    "content": "Main Governing body is the Council Libra reserve is the membership fee that the entities have to pay to be a part of the council The reserve fee is US$10 million",
+    "image": "/img/blog/4.jpg",
+    "tags": ["libra", "crypto", "coin", "facebook"],
+    "date": {
+      "day": "18",
+      "month": "September",
+      "year": "2019"
+    },
+    "link": "https://dev.to/a_mature_dev/what-is-the-libra-coin-and-network-quick-bullet-pointers-3f50"
+  },
+  {
+    "id": 5,
+    "title": "Deploy your webpage in just *1 (ONE)* command",
+    "content": "Create an account on Zeit Install the NOW npm package Go to the repo that you want to deploy, in the terminal Execute th command now Vola!! You should be done.",
+    "image": "/img/blog/6.png",
+    "tags": ["webdev", "codenewbie", "deployment", "easy"],
+    "date": {
+      "day": "18",
+      "month": "September",
+      "year": "2019"
+    },
+    "link": "https://dev.to/a_mature_dev/deploy-your-webpage-in-just-1-one-command-abo"
+  }
+]
