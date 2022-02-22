@@ -219,7 +219,7 @@ class FullTestimonials extends React.Component {
                     </div>
                   </div>
                   <p style={{fontSize: '20px'}}>
-                  Dipesh's clarity and ability to de-construct the task at hand ensured that an assignment was enjoyable. His enthusiasm and hard work made tight deadlines a competitive challenge which was accepted by his juniors thus portraying good leadership skills.
+                  Dipesh&apos;s clarity and ability to de-construct the task at hand ensured that an assignment was enjoyable. His enthusiasm and hard work made tight deadlines a competitive challenge which was accepted by his juniors thus portraying good leadership skills.
                   </p>
                 </div>
                 <div className="item">
@@ -279,7 +279,7 @@ class FullTestimonials extends React.Component {
                     </div>
                   </div>
                   <p style={{fontSize: '20px'}}>
-                  As a junior and a newcomer in the consultancy world, Dipesh was instrumental in guiding me into the so called 'corporate culture'. His skills of understanding client needs, planning and managing work assignments effectively with multiple staff was very effective. In addition, Dipesh's approach towards work was dynamic and to-the point, not restricted to any pre-determined criterias.
+                  As a junior and a newcomer in the consultancy world, Dipesh was instrumental in guiding me into the so called &apos;corporate culture&apos;. His skills of understanding client needs, planning and managing work assignments effectively with multiple staff was very effective. In addition, Dipesh&apos;s approach towards work was dynamic and to-the point, not restricted to any pre-determined criterias.
                   </p>
                 </div>
                 <div className="item">
@@ -299,7 +299,7 @@ class FullTestimonials extends React.Component {
                     </div>
                   </div>
                   <p style={{fontSize: '20px'}}>
-                  Dipesh has a very practical approach to things and questions the validity of established work procedures, with a view to improve on them. He exhibits entrepreneurial thinking and not just a straight jacketed "tax consultant" approach.
+                  Dipesh has a very practical approach to things and questions the validity of established work procedures, with a view to improve on them. He exhibits entrepreneurial thinking and not just a straight jacketed &apos;tax consultant&apos; approach.
                   </p>
                 </div>
                 <div className="item">
@@ -319,7 +319,7 @@ class FullTestimonials extends React.Component {
                     </div>
                   </div>
                   <p style={{fontSize: '20px'}}>
-                  Dipesh has proved time and again that he is a valuable team player, a go-getter and he has a 'never say die' attitude and can keep encouraging you to get things done as well. I wish him the very best for his bright future.
+                  Dipesh has proved time and again that he is a valuable team player, a go-getter and he has a &apos;never say die&apos; attitude and can keep encouraging you to get things done as well. I wish him the very best for his bright future.
                   </p>
                 </div>
                 <div className="item">
